@@ -12,5 +12,17 @@ The script generates a CSV file sports_headlines.csv with two columns: "Sport Na
 # Data Preparation:
 Ensure your sports headlines data is in a CSV file named sports_headlines.csv. Place the CSV file in the specified path Dependencies:
 
-# Install required libraries: pandas, scikit-learn.
-Running the Code:
+# It uses a pre-trained Naive Bayes classifier. To run the app:
+
+# Install dependencies from requirements.txt.
+Execute streamlit run main.py in your terminal.
+
+Input test headlines and click "Classify" for predictions.
+
+# Libraries:
+pandas
+scikit-learn
+streamlit
+pyarrow
+requests
+beautifulsoup4

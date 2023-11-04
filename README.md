@@ -1,7 +1,17 @@
 # Non_Stop_io_project
 AI/ML Assignment-NonStop io
+# Libraries:
+pandas
+scikit-learn
+streamlit
+pyarrow
+requests
+beautifulsoup4
 # Installation:
 Make sure you have the required libraries installed in your Python environment: you can run file run the file requirements.txt on your machine
+      ## use this command ##
+
+      pip install -r requirements.txt
 
 # Running the Script
 Execute the Python script sports_headlines_scraper.py in your Python environment. The script fetch headlines for various sports and save them to a CSV file named sports_headlines.csv.

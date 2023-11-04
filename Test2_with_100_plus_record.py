@@ -50,6 +50,7 @@ sports = {
     "Golf": "https://edition.cnn.com/sport/golf",
     "Football": "https://edition.cnn.com/sport/football",
     "Tennis": "https://edition.cnn.com/sport/tennis",
+    "motorsport":"https://edition.cnn.com/sport/motorsport",
     "Olympics": "https://edition.cnn.com/sport/olympics",
     "Climbing": "https://edition.cnn.com/sport/climbing",
     "US Sports": "https://edition.cnn.com/sport/us-sports"
